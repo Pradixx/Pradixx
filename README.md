@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pradixx/Pradixx/output/dist/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Pradixx/Pradixx/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
