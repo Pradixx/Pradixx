@@ -1,11 +1,5 @@
 <br clear="both">
 
-<h1 align="center">Diego Prado</h1>
-
-###
-
-<br clear="both">
-
 <h2 align="left">🙋‍♂️ Sobre mim</h2>
 
 ###
