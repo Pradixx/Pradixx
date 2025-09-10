@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">"Persistência e dedicação"<br><br>- 👤Sou o Diego Prado. Sou um Desenvolvedor em T.<br>- ⭐ Tecnologia: Java, JavaScript, Python, Node.js e MySQL<br>- 📚 O que estou apredendo: SpringBoot, BootStrap e APIs Rest.</p>
+<p align="left">"Persistência e dedicação"<br><br>- 👤Sou o Diego Prado. Sou um Desenvolvedor Fullstack.<br>- ⭐ Tecnologia: Java, JavaScript, Python, Node.js e MySQL<br>- 📚 O que estou apredendo: SpringBoot, SQL e NoSQL, Web aplication e APIs Rest.</p>
 
 ###
 
