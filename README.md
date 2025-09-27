@@ -87,3 +87,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Pradixx.Pradixx&"  />
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b00b0&height=120&section=footer"/>
