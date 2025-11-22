@@ -25,24 +25,33 @@
 
 ---
 
-<h2 align="center">🤖 Tecnologias</h2>
-
 <div align="center">
-  
-### 🖥️ **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,py,nodejs" height="45" />
 
-### 🌐 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,javascript,ts,react,angular" height="45" />
-
-### 🗄️ **Banco de Dados**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,hibernate" height="45" />
-
-### 🛠️ **DevOps / Ambiente**
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,mint,bash" height="45" />
-
-### 🔧 **Ferramentas**
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,figma" height="45" />
+<table>
+  <tr>
+    <h2 align="center">🤖 Tecnologias</h2>
+    <td align="center" width="50%">
+      <h3>🖥️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" height="45" />
+      <br><br>
+      <h3>🗄️ Banco de Dados</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,hibernate" height="45" />
+      <br><br>
+      <h3>🛠️ Ferramentas</h3>
+      <img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,figma" height="45" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,javascript,ts,react,angular" height="45" />
+      <br><br>
+      <h3>⚙️ DevOps / Ambiente</h3>
+      <img src="https://skillicons.dev/icons?i=linux,windows,docker,mint,bash" height="45" />
+      <br><br>
+      <h3>💬 Mensageria e Monitoria</h3>
+      <img src="https://skillicons.dev/icons?i=grafana,prometheus,rabbitmq" height="45" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -53,30 +62,9 @@
 <h2 align="center">📊 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradixx&show_icons=true&theme=panda&hide_border=true" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pradixx&show_icons=true&theme=panda&hide_border=true" height="200" />
+&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradixx&layout=compact&theme=panda&hide_border=true" height="200" />
-</div>
-
-<br>
-
----
-
-<h2 align="center">🔥 Projetos em Destaque</h2>
-
-<div align="center">
-
-<a href="https://github.com/Pradixx/Simulador-De-Investimentos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradixx&repo=Simulador-De-Investimentos&theme=panda&hide_border=true" />
-</a>
-
-<a href="https://github.com/Pradixx/Exercicios-Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradixx&repo=Exercicios-Java&theme=panda&hide_border=true" />
-</a>
-
-<a href="https://github.com/Pradixx/Api-Hotel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradixx&repo=Api-Hotel&theme=panda&hide_border=true" />
-</a>
-
 </div>
 
 <br>
